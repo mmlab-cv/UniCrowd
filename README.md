@@ -4,12 +4,12 @@
 Simulation is a powerful tool to easily generate annotated data, and a highly desirable feature, especially in those domains where learning models need large training datasets. Real-world data, in fact, do not often comply with the needs of machine learning and deep learning solutions, which have proven to be extremely data-hungry. Despite the initial skepticism of a portion of the scientific community, the potential of simulation has been largely confirmed in many application areas, and the recent developments in terms of rendering and virtualization engines, have shown a good ability also in representing complex scenes. This includes environmental factors, such as weather conditions and surface reflectance, as well as human-related events, like human actions and behaviors.
 We present a human crowd simulator, called UniCrowd, and its associated validation pipeline. We show how the simulator can generate annotated data, suitable for vision-based tasks, as crowd counting, detection, and tracking, as well as behavior-oriented tasks like trajectory prediction and anomaly detection.
 
-![banner](https://github.com/mmlab-cv/UniCrowd/main/images/unicrowd_schema.png)
+![banner](https://github.com/mmlab-cv/UniCrowd/blob/main/images/unicrowd_schema.png)
 
 ## UniCrowd Dataset
 The UniCrowd dataset comprises 9 scenes recorded in the `UniCrowd simulator`, developed with Unity. Each scene includes 5 videos, each captured by a different camera. These scenes vary in terms of the time of day they were recorded and the size of the simulated crowd.
 
-![banner](https://github.com/mmlab-cv/UniCrowd/main/images/unicrowd_gt.png)
+![banner](https://github.com/mmlab-cv/UniCrowd/blob/main/images/unicrowd_gt.png)
 
 You can download the UniCrowd dataset <font size=5>[HERE](https://drive.google.com/drive/folders/16Nb90YyOjfzDb9nolb6_efvl9syr6tAn?usp=sharing)</font>. By downloading the dataset, you agree to adhere to the license conditions.
 
