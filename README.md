@@ -99,9 +99,23 @@ For each METRIC, the structure is as follows:
 The UniCrowd Dataset is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 ## 📖 **Citation**
-Related paper:
-
-🔜 Soon available
+Related papers:
+ - Dataset:
+  @inproceedings{bisagno2024unicrowd,
+    title={Unicrowd simulator: Visual and behavioral fidelity for the generation of crowd datasets},
+    author={Bisagno, Niccol{\`o} and Stefani, Antonio Luigi and Garau, Nicola and De Natale, Francesco and Conci, Nicola},
+    booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
+    pages={193--199},
+    year={2024},
+    organization={IEEE}
+  }
+- Simulator:
+  @article{bisagno2023unified,
+    title={A Unified Simulation Framework for Visual and Behavioral Fidelity in Crowd Analysis},
+    author={Bisagno, Niccol{\`o} and Garau, Nicola and Stefani, Antonio Luigi and Conci, Nicola},
+    journal={arXiv preprint arXiv:2312.02613},
+    year={2023}
+  }
 
 ## 📑 **Summary**
 UniCrowd offers a valuable dataset for vision-based tasks and behavior-oriented analysis. Download the dataset, extract frames as needed, and explore the rich annotations to advance your research in crowd analysis and related fields.
