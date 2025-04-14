@@ -100,21 +100,21 @@ The UniCrowd Dataset is licensed under a [Creative Commons Attribution-NonCommer
 
 ## 📖 **Citation**
 Related papers:
- - Dataset:
-  @inproceedings{bisagno2024unicrowd,
-    title={Unicrowd simulator: Visual and behavioral fidelity for the generation of crowd datasets},
-    author={Bisagno, Niccol{\`o} and Stefani, Antonio Luigi and Garau, Nicola and De Natale, Francesco and Conci, Nicola},
-    booktitle={2024 IEEE International Conference on Image Processing (ICIP)},
-    pages={193--199},
-    year={2024},
-    organization={IEEE}
+ - Dataset: \
+  @inproceedings{bisagno2024unicrowd, \
+  &nbsp;&nbsp;&nbsp;&nbsp;title={Unicrowd simulator: Visual and behavioral fidelity for the generation of crowd datasets}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;author={Bisagno, Niccol{\`o} and Stefani, Antonio Luigi and Garau, Nicola and De Natale, Francesco and Conci, Nicola}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;pages={193--199}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;year={2024}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;organization={IEEE} \
   }
-- Simulator:
-  @article{bisagno2023unified,
-    title={A Unified Simulation Framework for Visual and Behavioral Fidelity in Crowd Analysis},
-    author={Bisagno, Niccol{\`o} and Garau, Nicola and Stefani, Antonio Luigi and Conci, Nicola},
-    journal={arXiv preprint arXiv:2312.02613},
-    year={2023}
+- Simulator: \
+  @article{bisagno2023unified, \
+  &nbsp;&nbsp;&nbsp;&nbsp;title={A Unified Simulation Framework for Visual and Behavioral Fidelity in Crowd Analysis}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;author={Bisagno, Niccol{\`o} and Garau, Nicola and Stefani, Antonio Luigi and Conci, Nicola}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;journal={arXiv preprint arXiv:2312.02613}, \
+  &nbsp;&nbsp;&nbsp;&nbsp;year={2023} \
   }
 
 ## 📑 **Summary**
